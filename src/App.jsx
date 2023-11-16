@@ -27,10 +27,12 @@ function App() {
     <>
     <h1>Prueba Tecnica 01 Midudev Carlos Calleja </h1>
     <div className='container'>
-      <h2>{fact}</h2>
+      
       {/* <h2>{img}</h2> */}
       
       <img src={img}/> 
+
+      <h2>{fact}</h2>
     </div>
     </>
   )
